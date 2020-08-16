@@ -39,7 +39,7 @@
 <li><a title="Objections to evolution" href="https://en.wikipedia.org/wiki/Objections_to_evolution">Objections to evolution</a></li>
 </ul>
 <h2><span id="History" class="mw-headline">History</span></h2>
-<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a class="mw-redirect" title="History of the creation-evolution controversy" href="https://en.wikipedia.org/wiki/History_of_the_creation-evolution_controversy">History of the creation-evolution controversy</a></div>
+<div class="hatnote navigation-not-searchable"><a class="mw-redirect" title="History of the creation-evolution controversy" href="https://en.wikipedia.org/wiki/History_of_the_creation-evolution_controversy">History of the creation-evolution controversy</a></div>
 <ul>
 <li><a title="History of creationism" href="https://en.wikipedia.org/wiki/History_of_creationism">History of creationism</a></li>
 <li><a title="History of evolutionary thought" href="https://en.wikipedia.org/wiki/History_of_evolutionary_thought">History of evolutionary thought</a></li>
